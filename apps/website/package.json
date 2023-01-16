@@ -1,0 +1,23 @@
+{
+  "name": "@web-59036/website",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "next": "13.1.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "zod": "3.20.2"
+  },
+  "devDependencies": {
+    "@web-59036/eslint-config": "workspace:*",
+    "@web-59036/tsconfig": "workspace:*",
+    "@rushstack/eslint-patch": "1.2.0",
+    "@types/node": "18.11.18",
+    "@types/react": "18.0.26",
+    "eslint": "8.31.0",
+    "prettier": "2.8.2",
+    "rimraf": "3.0.2",
+    "typescript": "4.9.4"
+  }
+}
